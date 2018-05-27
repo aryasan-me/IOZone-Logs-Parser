@@ -8,6 +8,7 @@ It solves the problems pertaining to IOZone File system benchmarking tool which 
 
 1. Python 2.7.X (x86/64)
 2. python json library (pip install simplejson)
+3. python pprint library (pip install pprint)
 
 ## Usage
 
