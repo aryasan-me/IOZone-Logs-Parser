@@ -11,7 +11,7 @@ It solves the problems pertaining to IOZone File system benchmarking tool which 
 
 ## Usage
 
-$> iozonelogsparser.py <logfilename.txt/.log>
+`$> iozonelogsparser.py <logfilename.txt/.log>`
 
 
 ## Contributions
